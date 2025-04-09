@@ -10,6 +10,17 @@ Artists can check their itineraries and earnings at any time, investment counsel
 
 Core features include: intelligent schedule and contract management, investment analysis dashboard and back office rights management system. We enable the entertainment industry to collaborate more smoothly and make smarter decisions.
 
+## Current Project Components:
+
+## Getting Start:
+
+
+
 ## Demo Video:
 
 ## Group Members:
+* Xinmeng (Jolin) Wang
+* Meixu Chen
+* Guanyu Qu
+* Jiajie Lin
+* Santiago Annunziato
